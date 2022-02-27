@@ -22,6 +22,7 @@ Collect summary statistics on the pounds per square inch (PSI) of the suspension
 !["ScreenShots/Del2_Image1_LotSummary.png"](ScreenShots/Del2_Image1_LotSummary.png)
 
 In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+
 !["ScreenShots/Del2_Image2_TotalSummary.png"](ScreenShots/Del2_Image2_TotalSummary.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
