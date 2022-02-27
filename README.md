@@ -3,16 +3,18 @@
 
 ## Deliverable 1: Linear Regression to Predict MPG
 Perform multiple linear regression analysis to identify which variables in the dataset predict the miles-per-gallon (MPG) of MechaCar prototypes
+
 !["ScreenShots/Del1_Image1.png"](ScreenShots/Del1_Image1.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Vehicle Length and Ground Clearance are statistically unlikely to provide random amounts of variance to the linear model. Vehicle Length having a p-value of 2.60e-12 and Ground Clearance having a p-value of 5.21e-08, indicating they are statistical significant on MPG.
+- Vehicle Length and Ground Clearance are statistically unlikely to provide random amounts of variance to the linear model. Vehicle Length having a p-value of 2.60e-12 and Ground Clearance having a p-value of 5.21e-08, indicating they are statistically significant on MPG.
 
 Is the slope of the linear model considered to be zero? Why or why not?
 - The p-value is below a significance level of 0.05%, meaning the slope of this model is not zero, indicating we are able to reject the null hypothesis.
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-- The R-squared value for this model is 0.715 which means 71% of observed variations can be explained by this models, which means it can be a good model to predict MPG.
+- The R-squared value for this model is 0.7149 which means 71% of observed variations can be explained by this models, which means it can be a good model to predict MPG.
+
 !["ScreenShots/Del1_Image2.png"](ScreenShots/Del1_Image2.png)
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
