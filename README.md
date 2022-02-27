@@ -3,7 +3,7 @@
 
 ## Deliverable 1: Linear Regression to Predict MPG
 Perform multiple linear regression analysis to identify which variables in the dataset predict the miles-per-gallon (MPG) of MechaCar prototypes
-!["ScreenShots/Image1.png"](ScreenShots/Image1.png)
+!["ScreenShots/Del1_Image1.png"](ScreenShots/Image1.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 - Vehicle Length and Ground Clearance are statistically unlikely to provide random amounts of variance to the linear model. Vehicle Length having a p-value of 2.60e-12 and Ground Clearance having a p-value of 5.21e-08, indicating they are statistical significant on MPG.
@@ -37,19 +37,19 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 
 Total of Three Lots t-test:
 - P-Value for all lots is 0.06 which is above our significance level of 0.05; fail to reject null hypothesis
-!["ScreenShots/Image3_ALL_Lots.png"](ScreenShots/Image3_ALL_Lots.png)
+!["ScreenShots/Del3_Image3_ALL_Lots.png"](ScreenShots/Del3_Image3_ALL_Lots.png)
 
 Lot 1 t-test
 - P-Value for Lot 1 is 1, above our significance level of 0.05: fail to reject null hypothesis.
-!["ScreenShots/Image4_Lot_1.png"](ScreenShots/Image4_Lot_1.png)
+!["ScreenShots/Del3_Image4_Lot_1.png"](ScreenShots/Image4_Lot_1.png)
 
 Lot 2 t-test
 - P-Value for Lot 2 is 0.06, above our significance level of 0.05: fail to reject null hypothesis.
-!["ScreenShots/Image5_Lot_2.png"](ScreenShots/Image5_Lot_2.png)
+!["ScreenShots/Del3_Image5_Lot_2.png"](ScreenShots/Del3_Image5_Lot_2.png)
 
 Lot 3 t-test
 - P-Value for Lot 3 is 0.04, below our significance level of 0.05: reject null hypothesis.
-!["ScreenShots/Image6_Lot_3.png"](ScreenShots/Image6_Lot_3.png)
+!["ScreenShots/Del3_Image6_Lot_3.png"](ScreenShots/Del3_Image6_Lot_3.png)
 
 
 
