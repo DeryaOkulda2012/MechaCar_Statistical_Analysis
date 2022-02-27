@@ -17,13 +17,11 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 !["ScreenShots/Del1_Image2.png"](ScreenShots/Del1_Image2.png)
 
-## Deliverable 2: Create Visualizations for the Trip Analysis
-## Summary Statistics on Suspension Coils
+## Deliverable 2: Summary Statistics on Suspension Coils
 
 Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
-!["ScreenShots/Del2_Image1_LotSummary.png"](ScreenShots/Del2_Image1_LotSummary.png)
 
-In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+!["ScreenShots/Del2_Image1_LotSummary.png"](ScreenShots/Del2_Image1_LotSummary.png)
 
 !["ScreenShots/Del2_Image2_TotalSummary.png"](ScreenShots/Del2_Image2_TotalSummary.png)
 
@@ -31,10 +29,9 @@ The design specifications for the MechaCar suspension coils dictate that the var
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually?
 Why or why not?
 
-## Modify!
-The overall variance for all lots is 62.3 PSI, indicating design specifications are met for all three total.
-Looking deeper, the summary of Lot 1 having a variance of 0.98 PSI and Lot 2 having a variance of 7.5 PSI; indicates both are below design requirements.
-Suspension coils from Lot 3 on the other hand show a high variance of 170.3 PSI, outside of design specification requirements.
+- The overall variance for all lots is 62.29 PSI, indicating design specifications are met when the three total are summarized together.
+- Looking deeper, the summary of Lot 1 having a variance of 0.979 PSI and Lot 2 having a variance of 7.5 PSI; indicates both are inside design requirements.
+- Suspension coils from Lot 3 on the other hand show a high variance of 170.27 PSI, outside of design specification requirements.
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
