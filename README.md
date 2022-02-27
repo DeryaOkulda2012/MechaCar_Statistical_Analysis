@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 
-## Linear Regression to Predict MPG
+## Deliverable 1: Linear Regression to Predict MPG
 Perform multiple linear regression analysis to identify which variables in the dataset predict the miles-per-gallon (MPG) of MechaCar prototypes
 !["ScreenShots/Image1.png"](ScreenShots/Image1.png)
 
@@ -15,7 +15,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 - The R-squared value for this model is 0.715 which means 71% of observed variations can be explained by this models, which means it can be a good model to predict MPG.
 !["ScreenShots/Image2.png"](ScreenShots/Image2.png)
 
-
+## Deliverable 2: Create Visualizations for the Trip Analysis
 ## Summary Statistics on Suspension Coils
 
 Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
@@ -30,8 +30,9 @@ The overall variance for all lots is 62.3 PSI, indicating design specifications 
 Looking deeper, the summary of Lot 1 having a variance of 0.98 PSI and Lot 2 having a variance of 7.5 PSI; indicates both are below design requirements.
 Suspension coils from Lot 3 on the other hand show a high variance of 170.3 PSI, outside of design specification requirements.
 
-T-Test on Suspension Coils
-- Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+## Deliverable 3: T-Tests on Suspension Coils
+
+Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
 Total of Three Lots t-test:
 - P-Value for all lots is 0.06 which is above our significance level of 0.05; fail to reject null hypothesis
