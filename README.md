@@ -34,7 +34,7 @@ T-Test on Suspension Coils
 
 Total of Three Lots t-test:
 - P-Value for all lots is 0.06 which is above our significance level of 0.05; fail to reject null hypothesis
-!["ScreenShots/Image3.png"](ScreenShots/Image3.png)
+!["ScreenShots/Image3_ALL_Lots.png"](ScreenShots/Image3_ALL_Lots.png)
 
 Lot 1 t-test
 - P-Value for Lot 1 is 1, above our significance level of 0.05: fail to reject null hypothesis.
