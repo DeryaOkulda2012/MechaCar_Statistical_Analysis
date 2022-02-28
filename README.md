@@ -57,10 +57,10 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
-Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a
+Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, write a
 summary interpretation of the findings.
 
-- Statistical study on vehicle tailpipe emissions: MechaCar vs. competition
+- Statistical study comparing vehicle performance to vehicle emissions: MechaCar vs. competition
 
 What metric or metrics are you going to test?
 
