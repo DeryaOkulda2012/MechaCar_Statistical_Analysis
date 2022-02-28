@@ -57,22 +57,30 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 
 ## ONE
 Design a Study Comparing the MechaCar to the Competition
-- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a 
+
+summary interpretation of the findings.
 - Statistical study on vehicle tailpipe emissions-MechaCar against competition
-- What metric or metrics are you going to test?
 
-Metrics- vehicle emissions
+What metric or metrics are you going to test?
+
+- Metrics:
+-- vehicle emissions
+-- City and highway fuel efficiencies.
+
+
 What is the null hypothesis or alternative hypothesis?
+- Null Hypothesis: MechaCar produces equal or more emissions than its competitors. To reject the Null Hypotheis to prove MechCar outperforms the competition, we need to collect fuel efficiency data for MechaCar and their competitors for the same type of cars. Null Hypothesis is that all of the cars in the same class have the same fuel efficiencies.
+- Alternative Hypothesis: MechaCar produces less emissions than its competitors. The Alternative Hypothesis is that they are not all the same.
 
-Null Hypothesis- MechaCar produces equal or more emissions than it competition
-Alternative Hypothesis- MechaCar produces less emissions than its competition
+Here we can use Two Sample Test for fuel efficiency and check the difference between MEchaCar and competition.
+
 What statistical test would you use to test the hypothesis? And why?
+- T Tests can be run between MechaCar and individual competitors to show direct comparison
+- ANOVA can be run between MechaCar and multiple competitors to show overall comparison
 
-T Tests can be ran between MechaCar and individual competitors to show direct comparisons
-ANOVA can be ran between MechaCar and multiple competitors to show overall comparisons
 What data is needed to run the statistical test?
-
-Emissions from both MechaCar and its competitors
+- Emissions from both MechaCar and its competitors
 
 
 
