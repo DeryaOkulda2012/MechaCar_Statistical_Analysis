@@ -37,19 +37,19 @@ Why or why not?
 
 Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
-Total of Three Lots t-test:
+### Total of Three Lots t-test:
 - P-Value for all lots is 0.06028 which is above our significance level of 0.05; fail to reject null hypothesis
 !["ScreenShots/Del3_Image3_ALL_Lots.png"](ScreenShots/Del3_Image3_ALL_Lots.png)
 
-Lot 1 t-test
+### Lot 1 t-test
 - P-Value for Lot 1 is 1, far above our significance level of 0.05: fail to reject null hypothesis.
 !["ScreenShots/Del3_Image4_Lot_1.png"](ScreenShots/Del3_Image4_Lot_1.png)
 
-Lot 2 t-test
+### Lot 2 t-test
 - P-Value for Lot 2 is 0.6072, also above our significance level of 0.05: fail to reject null hypothesis.
 !["ScreenShots/Del3_Image5_Lot_2.png"](ScreenShots/Del3_Image5_Lot_2.png)
 
-Lot 3 t-test
+### Lot 3 t-test
 - P-Value for Lot 3 is 0.04168, below our significance level of 0.05: reject null hypothesis.
 !["ScreenShots/Del3_Image6_Lot_3.png"](ScreenShots/Del3_Image6_Lot_3.png)
 
