@@ -7,7 +7,7 @@ Perform multiple linear regression analysis to identify which variables in the d
 !["ScreenShots/Del1_Image1.png"](ScreenShots/Del1_Image1.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Vehicle Length and Ground Clearance are statistically unlikely to provide random amounts of variance to the linear model. Vehicle Length having a p-value of 2.60e-12 and Ground Clearance having a p-value of 5.21e-08, indicating they are statistically significant on MPG.
+- Vehicle Length (vehicle_length) and Ground Clearance (ground_clearance) are statistically unlikely to provide random amounts of variance to the linear model. Vehicle Length having a p-value of 2.60e-12 and Ground Clearance having a p-value of 5.21e-08, indicating they are statistically significant on MPG.
 
 Is the slope of the linear model considered to be zero? Why or why not?
 - The p-value is below a significance level of 0.05%, meaning the slope of this model is not zero, indicating we are able to reject the null hypothesis.
